@@ -6,7 +6,7 @@
   
 [[redirects]]
   from = "/*"
-  to = "https://jpose.com/:splat"
+  to = "https://www.timnesia.com/:splat"
   status = 200
   force = true
   headers = {X-From = "netlify", X-Custom-Token = "my custom token"}
